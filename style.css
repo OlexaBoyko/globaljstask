@@ -1,13 +1,13 @@
 #link {
-    display:block;
-    padding:120px;
+    /*display:block;*/
+    /*padding:120px;*/
     background:#ECECEC;
+    height: 100%;
+
 }
 
-#link2 {
-	display:block;
-    padding:120px;
-    background: orange;
+body {
+  height: 900px;
 }
 
 a {
